@@ -7,6 +7,7 @@
 #luego de hacer git rm --cached [filename]
 #v9 removí el seguimiento de todos los archivos seguidos. Intenté un checkout de versión anterior y no funcionó
 #v15 luego de git rebase origin/main
+# v17 luego de borrar todos los archivos y volver a empezar
 
 
 import sqlite3
